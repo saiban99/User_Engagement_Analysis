@@ -6,6 +6,9 @@ In a competitive market like the restaurant industry,understanding the factors t
 
 
 
+
+
+
 RESEARCH OBJECTIVE
 
 1 - quantify the correlation between user engagement(reviews,tips,checkins) and review count/average star ratings: this will help us determine if restaurant with higher user engagement experience a corresponding increase in reviews and ratings
@@ -13,6 +16,11 @@ RESEARCH OBJECTIVE
 2 - Analyze the impact of sentiment on review count and average star rating: we will investigate if positive sentimnet in reviews and tips translates to higher star ratings and potentially influences the total number of reviews left.
 
 3 - Time trends in user Engagement: We will explore if consistent user engagement over time is stronger indicator of long-term success compared to sporadic bursts of activity
+
+
+
+
+
 
 
 HYPOTHESIS TESTING
